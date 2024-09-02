@@ -9,7 +9,7 @@
 
 - **Backend:** Node.js, Express.js
 - **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Bootstrap, Tailwind CSS, Next.js
-- **Database:** MongoDB
+- **Database:** MongoDB, MySQL
 - **Version Control:** Git, GitHub, Bitbucket
 
 ---
